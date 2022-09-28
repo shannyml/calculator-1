@@ -9,14 +9,16 @@ def add(num1, num2):
 
 def subtract(num1, num2):
     """Return the value of num1 minus num2."""
-
+    return num1 - num2
 
 def multiply(num1, num2):
     """Multiply the num1 by num2 and return the result."""
+    
 
 
 def divide(num1, num2):
     """Divide the num1 by num2, returning a floating point."""
+    
 
 
 def square(num1):
@@ -33,3 +35,4 @@ def power(num1, num2):
 
 def mod(num1, num2):
     """Return the remainder of num1 / num2."""
+    
